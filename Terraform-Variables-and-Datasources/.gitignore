@@ -1,0 +1,3 @@
+my-ec2key.pem
+.terraform/*
+.terraform*.
